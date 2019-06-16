@@ -16,3 +16,6 @@ Just open the index.html and type out or speak out.
 
 The webpage has a dialogflow module embedded in it. It runs on the Firebase server. Once you start the chat, you give the details of the activity required through a friendly conversation. And at the end the graphql query is composed with the determined parameters and API call to the BoredAPI is made and gives back the activity response.
 
+## results
+
+Please open the screenshots.doc to view the working sample screenshot of the Lazy Boredom Killer
